@@ -11,5 +11,5 @@ Below are examples of what the web page appears as when you enter it.  The first
 ![fil](fil.png)
 
 
-#Summary
+## Summary
 While the web page is super user friendly, there are a few drawbacks . The major draw back is that the filter fields do not provide suggested possible field category that correlate to what you’re typing in to the field. To fix this I have two recommendations. First, apply a suggested autofill feature to make the process faster. Second and lastly, provide a drop down menu so that the possible field options can be easily viewed. 
